@@ -1,6 +1,3 @@
 $(document).ready(function(){               
-  $('.materialboxed').materialbox();
-});
-$(document).ready(function(){
-  $('.materialboxed').materialbox();
+  console.log('Meh, solo un mensaje oculto re cool.');
 });
